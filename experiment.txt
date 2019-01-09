@@ -1,0 +1,20 @@
+第1次...distance = 200
+success!
+第2次...distance = 86
+success!
+第3次...distance = 182
+success!
+第4次...distance = 160
+success!
+第5次...distance = 151
+success!
+第6次...distance = 244
+success!
+第7次...distance = 75
+fail!
+第8次...distance = 127
+success!
+第9次...distance = 203
+success!
+第10次...distance = 236
+success!
